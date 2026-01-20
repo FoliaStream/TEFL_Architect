@@ -1,0 +1,15 @@
+**Introduction**
+
+Everyone has an opinion about teaching, but most people have a hard time breaking down what good teaching looks like. It is a kind of "I know it when I see it" phenomenon, but we need to be able to get into specifics in order to really understand what quality teaching is comprised of.
+
+Teachers use various teaching approaches, methods, and techniques in their everyday work. In education, just like in many other fields, people mix up commonly used terms, especially when they are close in meaning. For example, people in our field are sometimes confused about the terms _teaching approach_, _teaching method_, and _teaching technique_, probably because the distinctions between them can be vague. According to Richards and Rodgers (2001).
+
+"Within methodology, a distinction is often made between methods and approaches, in which methods are held to be fixed teaching systems with prescribed techniques and practices, whereas approaches represent language teaching philosophies that can be interpreted and applied in a variety of different ways in the classroom." (p. 2)
+
+Basically, the approach determines the method, while the method determines the technique. See **Table 1** for basic definitions and examples of an approach, method, and technique.
+
+| Term    | Definition    | Example    |
+|---|---|---|
+| Approach   | Belief or philosophy about language learning    | Students exchange information about each other and the teacher personalizes classroom topics.    |
+| Method    | Plan or general outline of how to put the approach into action    | Students perform tasks where they must relate classroom topics to their own cultural and/or personal backgrounds.    |
+| Technique   | Specific task or activity that aligns with the pre-determined approach and method    | After presenting food vocabulary and related grammar, students interview each other about common food traditions from their culture. Then students write a summary of how it is similar or dissimilar to their own culture. |

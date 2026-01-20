@@ -1,0 +1,15 @@
+**Language Levels**
+
+English language learners (ELLs) are normally grouped into one of three broader categories: beginner, intermediate, and advanced. Within these categories, you might see a qualifier, such as low beginner vs. high beginner. In addition, some educational institutions use other terminology, such as “novice” for very low beginners, or “proficient” for students with near-native English skills. Keep in mind that students might be more proficient in one language skill than another. For example, you might have a student displaying advanced-level speaking skills, but intermediate-level reading skills. Conversely, you might have a “true beginner” for speaking skills, but the student may show slightly higher reading and writing skills. For our purposes, we will use the following levels and descriptors found in the first column of Table 2. However, be sure to ask administrators at your school if they prefer a specific categorization system.
+
+---
+
+Table 2. Defining language levels
+
+| Level    | also sometimes called... | common characteristics |
+|---|---|---|
+| True Beginner   | Novice Pre-production | • Very limited communication in English • Uses gestures and 1-3-word utterances • May know greetings and a few “chunk” phrases, such as “How are you?” |
+| Beginner    | Limited English proficiency Emerging learner Production | • Communicates with difficulty and many errors • Very simple, unelaborated answers • Many hesitations • No ability to extend conversation • Uses simple grammar & vocabulary |
+| Low Intermediate | High Beginner    | • Communicates understandably with some errors • Simple answers and little elaboration • Attempts interactive conversation • Attempts more complex grammar |
+| High Intermediate | Mid-level    | • Communicates fairly well • Some elaboration, especially on familiar topics • Can converse with errors and some hesitations • Attempts more complex grammar & vocabulary |
+| Advanced    | Bridge Near proficient Near-native | • Communicates well with occasional errors • Errors do not obscure communication • Offers a lot of elaboration and interacts using appropriate social cues and gestures • Uses complex grammar and vocabulary on a consistent basis |

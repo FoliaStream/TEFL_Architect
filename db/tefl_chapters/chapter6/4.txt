@@ -1,0 +1,19 @@
+**Morphemes**
+
+Let's first introduce some important terminology used by linguists, who analyze language form and usage. A *morpheme* is the smallest unit of language that carries meaning. This can be further broken down into *free* and *bound morphemes*.
+
+A *free morpheme* is a set of letters that can stand on its own and have meaning. Some examples of free morphemes are the words "cold," "move," and "happy." A *bound morpheme* must be attached to a free morpheme. For example, the word "colder" contains two morphemes, the free morpheme "cold" and the bound morpheme "er." In the word "unhappy," the bound morpheme is "un-"; a prefix that is negative in meaning. The word "unmoved" also contains the bound morpheme "un-", as well as another bound morpheme, "d."
+
+A specific type of bound morpheme is called an *inflectional morpheme*, which is a morpheme added to a word without changing its part of speech:
+
+- Plural -s and -es endings are added to nouns:
+  - It's too dark; I can't see the numbers on the houses.
+- Possessive -s endings are added to nouns:
+  - The man's hat flew off in the wind.
+- Verb endings -s, -ing, -ed, and -en are added to show tense or aspect:
+  - She works at home every day.
+  - She worked at home last week.
+  - She is working in the office this morning.
+  - Last week she realised she had forgotten her purse when she was halfway to work.
+- The suffixes -er and -est are also added to adjectives for comparatives and superlatives:
+  - My nephew looks taller every time I see him. He is the tallest boy in his class.

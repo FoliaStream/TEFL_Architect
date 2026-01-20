@@ -1,0 +1,22 @@
+Alternatively, many language textbooks are organized by themes or general topics, which are followed by the other contents of each unit. **Figure 4** displays an example of a beginner-level textbook that is organized in this way. The units are defined primarily by theme (e.g., *Unit 2: The classroom*) and topics within that theme (e.g., *What we do in class, Where things are, etc.*). The grammar and skills practice come after and complement these themes and topics. More that most textbooks for younger learners are organized in this way because explicit grammar terms (such as *present simple*) are not commonly used with children, and books that are organized by themes are easier and more enjoyable for children in general.
+
+---
+
+*Figure 4.* Sample beginner textbook units organized by theme
+
+| Unit 1 | Topics    | Vocabulary | Grammar    | Skills (read/write/listen/speak) | Extensions    |
+|---|---|---|---|---|---|
+| Nice to meet you!    | Introductions    | Basic hobbies    | Present simple &e    | Say hello and introduce yourself    | Create and watch introduction videos    |
+|    | Getting to know each other    | Emotions    | Who and What questions    | Ask how people feel    |    |
+|    |    | The date (days, months, and years)    |    | Ask and tell about hobbies    |    |
+|    |    |    |    | Read and write about feelings and dates    |    |
+
+---
+
+*Unit 2*
+
+| The Classroom | What we do in class | Classroom objects | Present simple (habits) | Read and write about your classroom | Extensive reading: The Ghost in the Classroom |
+|---|---|---|---|---|---|
+|    | Where things are    | Action verbs    | Prepositions    | Give and receive instructions    |    |
+|    | Understanding instructions    |    | Imperatives    | Ask and tell about study habits    | Scavenger Hunt!    |
+|    | Your workspace    |    | Who, Where, Why, & What questions    |    |    |

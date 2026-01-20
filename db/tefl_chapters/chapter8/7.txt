@@ -1,0 +1,19 @@
+**Teaching Listening at Different Levels**
+
+In addition to the types of materials you use in class, it is also important to select content that is level appropriate. As you learned in chapters 1 and 4, activities and plans need to be tailored to your students’ abilities, as beginning, intermediate, and advanced students have different needs. **Figure 1** and **Figure 2** outline these differences and provide recommendations to address them.
+
+*Figure 1.* Listening needs profile
+
+| Level    | Listening Needs Profile |
+|---|---|
+| Beginner    | Recognizing the alphabet and numbers<br>Recognizing phonemes<br>Phrases for personal info and everyday life<br>Sight words<br>Classroom management language and following directions<br>High-frequency words: colors, time and date, food, everyday objects, etc.<br>Answering simple questions<br>Decoding of language |
+| Intermediate    | Knowledge of phonological rules<br>Recognizing meaning difference in word form, order, and grammar<br>Dealing with **reductions** and fast speech<br>Recognizing emotional tone and **register** |
+| Advanced    | Listening for content vs. language (e.g., **ESP/EAP**)<br>Sorting and interpreting relevant information<br>Dealing with fast speech<br>Bridging comprehension gaps from jokes, slang, and cultural references (i.e., learners still tend to interpret language literally)<br>Note-taking strategies |
+
+*Figure 2.* Class activities by student level and listening type
+
+| Type of Processing | Beginning | Intermediate | Advanced |
+|---|---|---|---|
+| Bottom-up    | Listen for rising/falling **intonation**<br>Minimal pair activities<br>Count syllables<br>Listen for word endings<br>Listen for stressed syllables<br>Listen for basic details (numbers, time, etc.) | Listen for content vs. function **stress**<br>Count syllables in longer words<br>Listen for reduced syllables, vowels and linked sounds<br>Listen for details | Use stress to identify keywords and phrases for note taking<br>Recognize spoken vs. written contrasts<br>Awareness of **discourse markers**<br>Listen for **presentation** organizational cues<br>Identify **suprasegmentals**<br>Identify key lecture points to fill in skeleton outlines |
+| Top-down    | Listen for feeling<br>Listen for gist<br>Match words and sounds to pictures<br>Recognize topic | Identify register and tone<br>Recognize speaker’s topic<br>Listen for main idea and supporting details | Use background knowledge to predict content<br>Use texture introductions to predict organization and speaker’s purpose<br>Identify key ideas<br>Recognize point-of-view |
+| Interactive    | Recognize formal vs. informal language<br>Categorize simple information (chart/stables)<br>Compare aural input to a text and/or own experience | Gauge speaker’s intent from word and phrase stress<br>Reconstruct colloquial speech into formal<br>Listen to confirm expectations | Predict content from phrase and **discourse markers**<br>Make Inferences |

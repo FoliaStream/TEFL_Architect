@@ -1,0 +1,50 @@
+**Providing Speaking Feedback**
+
+One important part of using a rubric – and also of practicing more informal speaking in the classroom – is providing students with feedback. Most students want some form of feedback when practicing speaking, and it can be helpful for their language development when teachers provide corrective suggestions and/or praise. There are different methods for doing so, and no one method is objectively better than any other. For our purposes here, two important distinctions in oral feedback are immediate vs. delayed and corrective vs. positive feedback.
+
+---
+
+*Immediate vs. delayed feedback*
+
+**Delayed feedback** is feedback provided after the fact, once a student has finished speaking, it allows a teacher to provide constructive comments without interrupting student speech. This is more common when students are practicing formal speaking for extended periods (e.g., giving a presentation). The grading rubrics that we touched upon in the previous section are a form of delayed feedback.
+
+**Immediate feedback** is feedback provided at the moment something is uttered by a student, which has the benefit of directing student attention to an utterance right after it is spoken. Immediate feedback may disrupt the flow of conversation, but it can be beneficial because students can immediately apply any **corrective feedback**. It is up to individual teachers to decide when feedback is needed and whether providing it would hinder **fluency or the practice** of communication, and you can elicit preferences from your students regarding immediate and delayed feedback.
+
+Whether providing delayed or immediate feedback, it is important to strike a balance between corrective and positive feedback.
+
+---
+
+*Corrective vs. positive feedback*
+
+Both delayed and immediate feedback can include *positive feedback*, which is praise for correct or well-spoken utterances or speech, something that can be motivating for learners. Positive feedback is more effective when it is more specific and might include something like highlighting correct grammar or improvement in pronunciation. It can also create a supportive classroom environment by encouraging students to give praise to their peers after group speaking activities. Depending on the students’ culture, it might be a good idea to gauge students’ attitudes about being praised in private or in front of the class.
+
+The alternative to positive feedback is *corrective feedback*, which consists of the teacher highlighting (and possibly correcting) student errors in speech, such as mispronunciations or grammatical errors. There is some debate as to the effectiveness of corrective feedback; however, most researchers and instructors believe that some form of corrective feedback can be beneficial for English language learners. In any case, many students expect and appreciate corrective feedback on spoken output, and many schools require it in some form.
+
+Some corrective feedback techniques include the use of prompts, which is when the teacher highlights an error without correction, and reformulations, which is when a teacher highlights and provides correction. Corrective feedback can also have varying degrees of explicitness, depending on how specific the feedback is. Examples of each kind of corrective feedback are provided in Figure 2.
+
+**Figure 2.** Types of corrective feedback
+
+|    | PROMPTS    | REFORMATIONS    |
+|---|---|---|
+|IMPLICIT | Clarification requests    | Simple reformulation    |
+|| S: We very happy yesterday.    | S: We very happy yesterday.    |
+|| T: I don’t understand. What do you mean?    | T: Oh, I see. You were very happy.    |
+|| Repetition    |    |
+|| S: We very happy yesterday.    |    |
+|| T: We very happy yesterday *(The teacher says ‘we’ with rising **intonation**, perhaps using a facial expression or hand gesture to indicate the problem area)*. |    |
+| EXPLICIT    | Elicitation    | Explicit correction    |
+|| S: We very happy yesterday.    | S: We very happy yesterday.    |
+|| T: We *(long pause accompanied by gesture/expression)* very happy yesterday.    | T: You should say, ‘We were very happy yesterday.’ *(The teacher stresses the corrected form.)* |
+|| OR    |    |
+|| T: We very happy? *(The teacher accompanies the prompt with a gesture or expression.)* |    |
+|| Metalinguistic clue    | Explicit correction with metalinguistic clue    |
+|| S: We very happy yesterday.    | S: We very happy yesterday.    |
+|| T: Where is your verb?    | T: Remember that every sentence needs a verb. We were happy yesterday.    |
+
+**Adapted from Giving Feedback on Speaking**
+
+Finally, while much research has been done on the relative effectiveness of different forms of feedback for student speech, there is no definitive answer on whether one **technique** is more effective than another. As such, each teacher should experiment with different types of feedback and corrective techniques with different situations, learners, and teaching contexts. The most important thing is that your students understand and are comfortable with the feedback you provide for them.
+
+For a more expansive discussion of why and how you can provide feedback for speaking activities, see the following link:
+
+- [x] Giving Feedback on Speaking from Cambridge University Press

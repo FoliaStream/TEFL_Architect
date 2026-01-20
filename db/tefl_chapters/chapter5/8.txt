@@ -1,0 +1,25 @@
+**Units of Study**
+
+The next steps in designing a course of study include the breaking down of the course into units of study and choosing course materials, steps that are often intertwined. You might decide to break down your course by specific units, such as themes/topics or grammatical structures, and then look for materials or a textbook that would work with that breakdown. Conversely, you might decide to look for an appropriate coursebook that suits your students' needs and then use the contents of that book to order your course units. If you are provided a textbook by your school, you should evaluate the strengths and weaknesses of that book first, something we cover in the next section. For now, let's look at some different ways that you can break a course of study into smaller blocks, or *units of study*, using some example textbook tables of contents as illustrations.
+
+One way to **approach** a course of study is to break down the units by language, often in the form of grammatical structures. Of course, this tends to be the breakdown for most grammar textbooks, which usually begin each unit by displaying which structures will be covered.
+
+*Figure 3* shows an example of how a typical **EFL** intermediate-level textbook might be structured in this way. Each unit features a specific grammar structure, which is followed by vocabulary, communicative acts, and skill **practice** to complement the grammar being covered.
+
+Figure 3. Sample intermediate textbook units organized by language forms
+
+|    | Grammar   | Vocabulary | Real life (functions) | Pronunciation | Listening | Reading | Speaking | Writing |
+|---|---|---|---|---|---|---|---|---|
+| Unit 4    |    |    |    |    |    |    |    |    |
+| The Present Perfect | Past simple (review) | Vacations | I have a problem! | has, have | A call to a travel agent | A profile of a hotel critic | Travel experience | Postcards |
+|    |    | Tourism |    |    |    |    |    |    |
+|    | Present perfect simple | Travel problems | How long...? | Contractions | A video about eco-tourism | An article about vacation destinations | Complaints | Travel survey |
+|    | Present perfect continuous | Compound nouns | Where have you...? | Countries & nationalities (e.g., South Korean vs. South Korean) | Conversation about vacation activities | An article about eco-tourism | How to be a good tourist | Formal & informal style |
+|    | for & since |    |    |    |    |    |    |    |
+| Unit 5    |    |    |    |    |    |    |    |    |
+| Modal Verbs 1 | Modal verbs of obligation, ability, and advice: have to, must, can, be allowed to, should | Health & lifestyle | Solving problems | Contractions | A podcast about healthy living | News about international eating habits | Your favorite foods | Menus |
+|    |    | Food | What should we...? | Sentence stress for emphasis | Two friends planning a party menu | A health food restaurant menu | How to be a healthy eater | Cooking advice |
+|    |    | Restaurants |    |    | Doctor's orders |    |    | Email to your doctor |
+
+The first conditional
+when, before as soon as, until

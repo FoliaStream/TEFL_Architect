@@ -1,0 +1,49 @@
+**Common Student Difficulties**
+
+Listening comprehension abilities vary from class to class and student to student. Likewise, the reasons why these variations exist are complex and diverse. That said, it can be helpful to look at some possible reasons behind why students may struggle to process and understand aural input. The following list of difficulties is by no means exhaustive, but it provides an indication of some common challenges:
+
+Students may try to understand (or translate) every word
+
+One common problem that students encounter in listening is trying to decipher the meaning of every word. Some try to mentally translate every word into their first language. In either case, this is problematic because they may “stop” listening when they encounter an unknown word and potentially lose the thread of what was being said, ultimately failing to understand the overall meaning of the input. To overcome this, incorporate top-down listening practices that teach students to become comfortable with ambiguity and listen for the overall meaning.
+
+---
+
+- *Students may not recognize sounds*
+
+Distinguishing particular sounds is another potential listening problem, particularly for beginner-level students. For instance, Vietnamese students may have difficulty in distinguishing final /z/ and z/ sounds (called stops) as in “code” vs. “coat” or “spent” vs. “spent.” Spanish speakers may struggle to distinguish /s/ from z/ as in “price” vs. “prize.” There are other similar common difficulties among speakers of other languages as well.
+
+One listening activity to practice sound function is working on minimal pairs (i.e., a pair of words with only a single phonemic difference). For Spanish speakers you could, for example, present minimal pairs to practice distinguishing /s/ vs. z/ (price/prize, rice/rise, etc.). These two sounds are also a distinction between voiceless and voiced consonants (voicing in phonetics refers to vibration of the vocal cords). To practice this, you could have your students circle the word they hear. They can also touch their throats to feel the vibration from the voiced z/ and lack of vibration from voiceless /s/. Chapter 9 will provide more information on voicing and minimal pair activities.
+
+---
+
+- *Students may not recognize reduced forms*
+
+Another common problem that students may have is hearing reduced forms. Reduced forms are common parts of spoken language that include contractions, elision, assimilation, and reduction (Brown & Hillerty, 1986). To give you an example, read the following sentences out loud: (1) “I’ve always loved him” and (2) “I am going to call.” In this first sentence, you questions may hear “I always loved him” and fall to hear the soft and quick “we” sound that makes a contraction. In the second sentence, students may struggle to understand “going to” as you are likely to say “gone.” These are examples of reduced forms. Proper bottom-up listening practices on these pronunciation features can increase students’ ability to understand authentic speech. (See Appendix A in Chapter 9 for more information on reduced forms.)
+
+---
+
+- *Students may not understand speech with unfamiliar stress, rhythm, and intonation patterns*
+
+Known as the supraespermar/features of a language, stress, rhythm, and intonation are important parts of how a language sounds. Students who struggle to hear and produce these language features likely come from languages with supraespermarial rules that are very different than those of English.
+
+For some learners, unfamiliar stress patterns may interfere with recognizing known words. Stress can be thought of as the syllables in words that are longer, louder, and higher pitched. Students may also not recognize how stress affects pronunciation or changes meaning at the word and sentence level. At the word level, stress falls on syllables. At the sentence level, stress falls on content words (e.g., nouns, verbs, adjectives, and sometimes adverbs) while function words (e.g., pronouns, determiners, prepositions, and auxiliary verbs) are de-stressed. For example, Cede-Murda et al. (1996) state that students may have problems distinguishing between the following sentences:
+
+*That’ll be thirteen dollars vs. That’ll be thirty dollars.*
+
+*That’s elementary vs. That’s a lemon tree.*
+
+The combination of stressed and unstressed parts of a sentence is called rhythm. You can think of rhythm as the soft and quick vs. the hard and long beats that create the music of English. English is a stressed-time language. This means that the amount of time it takes to say a sentence will depend on the number of stressed syllables in the sentence. For some students, listening practice with stress at the sentence level may be beneficial. To view a sample lesson that addresses aspects of English stress, watch the following video:
+
+And finally, depending on your students’ first languages), they may struggle to understand the way intonation affects meaning in English. Intonation is the way that the pitch goes up and down as we speak. For example, some students may not be able to distinguish the semantic difference between these two sentences: (1) “What’s his name?” (falling intonation) and (2) “What’s his name?” (rising intonation). The first sentence means that the speaker does not know his name, while the second sentence could mean that the speaker knew his name at one point but forgot it. Some learners could benefit from intonation listening practices.
+
+---
+
+- *Students may not understand different varieties of English*
+
+If students have never had practice listening to a certain accent, they may struggle to understand its speakers. Therefore, it is important to use different English varieties in your listening activities. Likewise, you should consider varying the gender, age, and accents of speakers.
+
+---
+
+- *Students may not be able to overcome background noise*
+
+Students who have never heard authentic language and have only been exposed to realistic language in the ESL classroom are likely to struggle with common background noise such as restaurant sounds, music, street noise, etc. To better prepare your students for authentic listening, consider integrating background noise into some of your intermediate or advanced listening materials and/or activities.

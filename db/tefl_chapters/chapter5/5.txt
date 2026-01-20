@@ -1,0 +1,46 @@
+**Needs Analysis**
+
+As noted in chapter 2, one key step in creating a student-centered course of study is the use of a needs analysis. This is a way for a school or teacher to collect data on individuals or groups of students, data which is then used to inform the creation of tailored course objectives.
+
+Needs analyses can take several different forms. One of the simpler methods of needs analysis is a survey, which can ask open-ended or multiple-choice questions about the following student traits:
+
+- educational background
+- culture
+- language abilities
+- motivations
+- aspirations
+
+Depending on the language level of students being surveyed, multiple-choice questions are often more effective for gathering information, as the data is easier for a teacher or school to analyze. Note, however, that while multiple-choice questions are convenient and often easier for novice-level students to complete, they can also be limiting in scope. You will only get a select amount of data because students are not able to explain their answers. **Figure 2** shows a sample survey that includes several different question types, and it can be used or altered for the purpose of general needs analysis.
+
+*Figure 2.* Sample needs analysis
+
+Sample Pre-Course Questionnaire/Needs Analysis
+
+Name ______ Date______
+
+1. Why specifically do you need/want to learn more English? What situations are difficult for you in English?
+
+2. What specific areas would you like to improve in the next (insert the length of class in weeks)?
+
+3. Order the skills you need from 1 - 6. Number 1 is the most important and number 6 is the least important to you. Please use each number only once.
+
+Reading ___ Writing ___ Listening ___ Speaking ___ Vocab ___ Pronunciation___
+
+4. Think about when you need to use English and check the boxes below. (Check ALL boxes that apply.)
+
+I'd like to practice English. . .
+
+| Travel/Community    | Work    | Education and Training    |
+|---|---|---|
+| □ To read travel information online (e.g., flights, hotels, etc.) | □ To look for work    | □ To take college/university courses    |
+| □ To ask for/give directions    | □ To fill out a job application    | □ To take a special training or professional course    |
+| □ To have conversations and make English speaking friends | □ To write a resume    | □ To take a TOEFL exam    |
+| □ To open a bank account    | □ To go on a job interview    | □ To take a TOEIC exam    |
+| □ To speak with a cashier to buy or return things in a store. | □ To talk with co-workers    | □ Other_____    |
+| □ To look for an apartment or house    | □ To talk with supervisors    |    |
+| □ To talk to the landlord or hotel about house/room problems | □ To talk with employees    |    |
+| □ To talk with teachers    | □ To write an email    |    |
+| □ To make or change a doctor's appointment    | □ Other_____    |    |
+| □ To talk about symptoms, illnesses & health problems    |    |    |
+| □ To follow doctor's instructions about treatment and read medicines    |    |    |
+| □ Other_____    |    |    |

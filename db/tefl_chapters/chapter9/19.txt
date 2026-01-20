@@ -1,0 +1,193 @@
+**Appendix A- Basic Features of English Pronunciation**
+
+**Voicing:** Voicing is a sound feature produced by the vibration of the laynix (vocal cords); sounds are voiceless when vibration is absent. All English vowels are voiced, but some consonants are voiced while others are not. Note that the presence or lack of voicing produces a different **phoneme** (sound), even though two sounds may be created through the same manner of articulation in the mouth. The chart below illustrates the voiced and voiceless consonant contrasts in English:
+
+| Voiced Consonant | Example    | Voiceless Consonant | Example    |
+|---|---|---|---|
+| /b/    | bet    | /p/    | pet    |
+| /v/    | van    | /f/    | fan    |
+| /dj/    | jeep    | /fj/    | cheap    |
+| /g/    | girl    | /k/    | curl    |
+| /z/    | zip    | /x/    | zip    |
+| /d/    | dip    | /t/    | tip    |
+| /ð/    | this    | /ð/    | thistle    |
+| /j/    | measure    | /j/    | kinship    |
+| /n/    | nose    |    |    |
+| /ŋ/    | sing    |    |    |
+| /r/    | read    |    |    |
+| /l/    | yet    |    |    |
+| /w/    | want    |    |    |
+| /l/    | late    |    | hot    |
+
+There is an easy way to tell if a sound is voiced or not. Just place your hand on your throat and make the sound. If you feel a vibration, the sound is voiced; if not, it’s voiceless.
+
+**Syllables:** A syllable is a part of a word. All English words have at least one syllable, and each syllable occurs on a vowel sound.
+
+| One Syllable    | Car    | Car    |
+|---|---|---|
+| Two Syllables    | Airport    | Air - port    |
+| Three Syllables    | Apartment    | A - part - ment    |
+| Four Syllables    | Impediment    | Im - ped - I - ment    |
+
+Your students can tap a hand or finger to count the number of syllables in a word. If they are still unsure, have them check their dictionary. Being able to discern syllable boundaries is important for good **production** as well as for overall listening comprehension.
+
+**Stress:** In English, there are some sounds, words, parts of words, and parts of sentences that are pronounced stronger than others; this is called stress. Stress is important because it contains meaning – using the wrong stress can mean that your students are not understood by a listener, or that they produce an incorrect or unintended message. For example, all unstressed vowels in American English reduce to the sound called schwa (a). This is what gives American English its characteristic sound when compared to other dialects of English.
+
+**Rhythm and intonation:** English is a stress-timed language, which means any one syllable may last a different amount of time. Rhythm is the alternating pattern of strong and weak syllables in an utterance, while intonation is the rising and falling of vocal pitch. Together they form the “music” of the language. This is important because English uses rhythm and intonation to convey meaning and feeling. If an English learner uses the wrong rhythm or intonation, or none at all, a listener may be confused by what he or she says or may think that the speaker is bored or uninterested in the conversation.
+
+**Linking and Reductions:** Linking is when two words sound like one word when they are said together. Reductions are short forms of words. English has many of these forms and learning how to say them correctly means your students will have a more natural sound to their spoken production.
+
+**Pronunciation and Grammar:** English grammar is also connected to pronunciation. For example, changing the stress on a syllable can change a singular noun to a plural noun form, or alter the form of a verb, depending on pronunciation differences.
+
+All of the above features combined give English its characteristic “sound.” For your students, practice and long-term acquisition of pronunciation features will help them to sound more native-like, and therefore communicate more effectively.
+
+>**Basic Rules for English Pronunciation**
+
+**Common Rules for Stress**
+
+**Stress in Syllables:** In words with two or more syllables, one syllable always receives primary stress. This means that the syllable is stronger – it is pronounced longer, louder, and more clearly:
+
+- air-port
+- a-párk-ment
+
+In dictionaries, stressed syllables are marked with the symbol (?)
+
+**Compound Nouns:** A compound noun is made of two nouns connected together. Always stress the first syllable of a compound noun:
+
+- air-port
+- dég-house
+- drive-way
+- cárd-board
+
+**Stress in Sentences:** English sentences contain content words and function words. Content words carry information; function words are used to indicate grammatical structure and relationship. In English, content words are usually stressed, while function words are not.
+
+| Stressed (Content)    | Unstressed (Function)    |
+|---|---|
+| Nouns (cat, table)    | Articles (a, an, the)    |
+| Verbs (work, study)    | Auxiliary Verbs (am, is, will)    |
+| Adjectives (fast, red)    | Prepositions (in, on, at, to, for)    |
+| Adverbs (quickly, very)    | Conjunctions (and, but, or, when, if)    |
+| Demonstratives (this, those)    | Relative Pronouns (which, that)    |
+| Question Words (what, when, where)    | Personal Pronouns (i, you, he, them)    |
+| Negatives (not, contractions with be/do)    |    |
+
+**Contrastive Stress:** In questions, certain information is stressed. The same stress should be mirrored in the reply.
+
+Question: Do you have class on Friday?
+Answer: No, I work on Friday.
+Question: Do you have class on Friday?
+Answer: No, I have class on Thursday.
+
+**Common Rules for Intonation**
+
+*Questions and Lists:*
+
+In Wh- (information) questions, the voice goes down at the end:
+
+- When do you go to *class* (*class* has a | intonation)
+
+In Yes/No and Tag questions, the voice goes up at the end:
+
+- Do you like *pizza* (*pizza* has a | intonation)
+- You like *pizza*, *don't you!* (*don't you* has a | intonation)
+
+When reciting a list, the voice goes down after the last item. This tells the listener that the speaker has completed their utterance:
+
+- I like **coffee**, tea, and juice. (*coffee and tea* have a | intonation) (juice has a | intonation)
+
+Depending on your students' cultural and linguistic background, they may feel awkward about using their voice in this manner, or they may sound over-exaggerated. Assume them that this is perfectly acceptable, indeed expected, in spoken English.
+
+**Common Rules for Linking and Reductions**
+
+**Reductions:** In English, the following function words are reduced in speaking. They are pronounced quickly and unclearly:
+
+The preposition "to" is often reduced after a verb, usually a modal. The auxiliary "have" is frequently reduced in the same manner. See the chart below:
+
+Reductions: In English, the following function words are reduced in speaking. They are pronounced quickly and unclearly.
+
+| Word    | Reduced to:    | Examples    |
+|---|---|---|
+| And    | [bn]    | rock and roll > rock n' roll    |
+| Or    | [ar]    | in or out > inner out    |
+| Can    | [kn]    | I can help. > I kn help.    |
+
+The preposition "to" is often reduced after a verb, usually a modal. The auxiliary "have" is frequently reduced in the same manner. See the chart below.
+
+| Phrase    | Pronunciation    |
+|---|---|
+| Want to    | /wana/    |
+| Have to    | /hartha/    |
+| Going to    | /gana/    |
+| Need to    | /indta/    |
+| Ought to    | /xia/    |
+| Should have (Should've)  | /joda/    |
+| Would have (Would've)  | /weda/    |
+| Could have (Could've)  | /koda/    |
+
+
+**Pronunciation Rules for Grammar**
+
+**Final “5”: A final -s for plural nouns, possessives, present tense verbs, or contractions of the verbs “is” and “has” can be pronounced one of three ways. The correct pronunciation depends on the last sound of the word. See the chart on the next page.**
+
+| If the word ends in... | Pronounce the -s ending... | Examples |
+|---|---|---|
+| [s, z, f, s, t, tʃ, dʒ]    | as an extra syllable [əʊ] or [ɪz]    | boxes He fixes cars, churches Books Pat’s camera bites days, rings, halves Sam’s studying He’s eaten.    |
+
+[ɒ, t, k, f, θ]    as the sound [ʒ]
+
+A vowel or  
+[b, g, d, ð, v, l, r, m, n, n]  
+
+as the sound [ʔ]
+
+---
+
+**Past Tense Regular Verb Endings:** The –ed (past tense) ending has three different pronunciations. Like the rule above, the right pronunciation depends on the last sound of the base form of the verb:
+
+| If the verb ends in... | Pronounce the –ed ending... | Examples |
+|---|---|---|
+| [t, d]    | as an extra syllable [əʊ] or [ɪd]    | want > want/ed start > start/ed |
+| [ɒ, tʃ, k, f, θ, j, s]    | as the sound [t]    | wash > washed talk > talked |
+| A vowel or  
+[b, g, ð, n, l, m, n, r, v, z, s, dz]    | as the sound [d]    | open > opened cry > cried |
+
+
+**Appendix C – Sample Writing Rubric**
+
+*Assignment: Paragraph #1*
+
+You have brainstormed ideas and created an outline of your topic in class.
+
+**Goal:** Write a well-organized paragraph about your topic.
+
+*Instructions:*
+
+1. Write a topic sentence with a good controlling idea.
+2. Write supporting sentences to explain your controlling idea.
+3. Write a concluding sentence.
+4. Choose a title for your paragraph.
+5. Format this into a paragraph on the back of this page.
+6. Check your spelling, capital letters, and punctuation.
+
+---
+
+*You will be graded like this:*
+
+| Criteria    | Points | Comments |
+|---|---|---|
+| **Paragraph Format**    |    |    |
+| - Written as a paragraph with a title    | 0 - 5 pts   |    |
+| - Indented    |    |    |
+| - Double spaced    |    |    |
+| - Margins    |    |    |
+| - Handwriting is readable    |    |    |
+| **Organization**    |    |    |
+| - Topic sentence has a good controlling idea    | 0 - 10 pts   |    |
+| - Supporting sentences explain the controlling idea    |    |    |
+| - There is a concluding sentence    |    |    |
+| **Grammar and Spelling**    |    |    |
+| - All sentences have a subject and a verb    | 0 - 5 pts   |    |
+| - All sentences have correct capitalization and punctuation    |    |    |
+| - There are no misspelled words    |    |    |
+
+**Total:**

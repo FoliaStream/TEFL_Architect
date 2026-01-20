@@ -1,0 +1,497 @@
+### Notes
+
+# CHAPTER 3 - Methods & Approaches
+
+>**INTRODUCTION**
+
+There are various teaching approaches / methods / techniques:
+- **Approach**: belief of philosophy about language learning
+    
+Students exchange information about each other and the teacher personalizes topics
+
+- **Methods**: plan or general outline of how to put the approach into action 
+
+Students perform tasks where they must relate classroom topics to their own cultural and / or method 
+
+- **Technique**: specific task or activity that aligns with the pre-determined approach and method 
+
+After presenting food vocabulary / grammar students interview each other about common food traditions. Then students write summary
+
+---
+
+>**APPROACH**
+
+*General philosophy* that you use to plan class activities
+
+Example:
+- Behavioural theory learning - students learn based on reward and punishment
+- Skinner - behavioural approach
+- Chomsky - different approach: brains hard-wired to acquire grammar/language from birth so no punishment needed
+
+Various appraoches possible
+
+---
+
+>**METHOD**
+
+Plan to implement teaching philosophy
+
+How you concretely plan to teach students 
+
+---
+
+>**TECHNIQUE**
+
+Specific tactic used to carry out chosen teaching method 
+
+- *Anthony*:
+    - *approach* - level at which assumptions and beliefs about language and learning are specified
+    - *technique* - level at which theory put into practice about skill/content order 
+    - *technique* - level at procedures described 
+
+Each class is different -> difficult for teacher 
+
+**Developing teaching techniques**
+
+Good teachers consider their experience and their students experience 
+
+Observe each other to get ideas 
+
+---
+
+>**TRADITIONAL WESTERN METHODS TO TEACH LANGUAGES**
+
+EU and USA methods are popular - focused on grammar
+
+*3 methods*:
+- Grammar translation
+- Direct
+- Audiolingual
+
+When popular, streamlined to work with situation --> over time opinions changed but still partially found 
+
+---
+
+>**GRAMMAR TRANSLATION METHOD**
+
+Based on belief that language learning is a type of mental training
+
+Learners mind stimulated through direct translation between languages
+
+The more you translate between native and new language the better
+
+*Pitfall*:
+- difficult converstaional speaking / listening activities
+- exclude young Learners
+- fell out favor due to people's inability to speak 
+
+Can still use for grammar studies
+
+---
+
+>**DIRECT METHOD**
+
+Instructors teaching language by directly associating words to pictures / objects in language taught 
+
+A bit language learned in short time 
+
+Effective with young learners - move beyond ideas / events
+
+Disadvantage - no way to teach actions / abstract ideas
+
+*Total Physical Response (TPR)* - extension of this method
+
+---
+
+>**AUDIOLINGUAL METHOD (ALM)**
+
+Memorization of dialogues and use of language labs 
+
+Originally army method - started in 40s as result of WWII
+
+Language memorized for use in structured conversations in class - people remember conversations, able to functino in the language by knowing cues drivign them 
+
+ALM fell out of favor in 60s-70s - language learning being connected to meaning
+
+ALM - relied learners guessing / forming meaning on their own but no focus on meaning --> ALM not part of *Communicative Approach*
+
+---
+
+
+| METHOD | PROS | CONS | TAKEAWAYS |
+|---|---|---|---|
+| • Grammar Translation | Learners have good grammar | Never use language in natural context | Find what vocab they can translate / study at home independently |
+|                       | Rely on natural translation that happens for many | No advantage in learn from practice | |
+| • Direct | Learners able to acquire a lot of language by connecting concept to target language| Lexical clarity difficul | Great way to present new language to student |
+|          | | Abstract concepts difficult to teach | Used as springboard to other methods |
+| • Audiolingual| Learners improve pronunciation and learn language in context | Learn large info but are not taught how to solve problem or real situation | Dialogues from ALM are great samples to use as examples |
+
+*All have Pros and Cons* 
+
+Grammar Translation - used at home to practice vocab grammar 
+
+Direct Method - cornerstones in many classes 
+
+Audiolingual Method - give examples of real-worls conversations 
+
+
+Transition to new approaches --> focused on concepts: **accuracy vs. fluency**
+
+---
+
+>**ACCURACY VS FLUENCY**
+
+*Accuracy* - sentences have correct grammar / vocab -> traditional teachers: Audiolingual / Grammar translation + exercises (difficult communication with native speakers)
+
+*Fluency* - expressing ideas easily and with appropriate speed (even if with errors)
+
+**Need to balance** : 
+- fluency exercises - role plays 
+- accuracy exercises - grammar awareness
+
+Teacher - focus on aim of class to decide focus fluent/accurate
+
+
+---
+
+>**CONTEMPORARY WESTERN LANGUAGE TEACHING**
+
+Consider approaches different - also help teacher / peers/ supervisor  the way that you teach 
+
+---
+
+>**NATURAL APPROACH**
+
+Attempt to teach new language in a way that mirrors the way people naturally learn their first language 
+
+**Omaggio-Hadley** - method with 3 main points:
+- initial activities - listening 
+- all activities focus on communication 
+- little attention on correction 
+
+Listening is key to children learning - a lot of activities at beginning student level 
+
+Communication connect to the listening to build activities - can occur without expicit grammar knowledge 
+
+Building vocabulary - ignored / replaced by repetition of examples 
+
+Children learn through the use of the language - kinks work themselves out as they go 
+
+Natural appraoch evolved into the **Communicative Approach**
+
+---
+
+>**COMMUNICATIVE APPROACH**
+
+Common tearm in language programs - also very misused term - confused for the *Communicative Language Teaching* (CTL)
+
+Communicative Approach -> RIchards, Rendaya: all teaching activities conducted in the target language
+
+This is an "Approach" so it is a general phylosophy - not specific method or technique
+
+*Misunderstanding with the Communicative Appraoch*:
+- Students and teacher neet to be speaking in class in all interactions 
+- goal: talking to students in target language and having students talking to each other in englih to make them improve 
+- they will not understand everything - but the goal is to have them understand the most and make them use it in the natural way 
+
+*Other implications*:
+- Past - language teaching focused on memorizing language -> unnatural 
+- Too much focus on memorization - no opportunity to practice 
+- Students not using language to learn it - not really learning it 
+- Communicative approach - learn how to use the language as they learn it 
+
+---
+
+>**HUMANISTIC APPROACHES**
+
+60s/70s - new approaches focused on how people felt within class / about new language 
+
+"Designer methods" - reaction to lack of welcoming atmosphere
+
+---
+
+>**COMMUNITY LANGUAGE LEARNING (CLL) APPROACH**
+
+Breaks with previous approaches 
+
+Environment in which learning occurs precedes all other aspects of learning process 
+
+Once trust built - no blocks to learning 
+
+*Nagaraj* - 5 stages of the CCL:
+- **Birth**: learners know none of the language - 100% depend on teacher
+- **Self-learners**: learners begin to develop understanding - still depend on teacher 
+- **Separate-existence**: begin to use language alone - comfortable with basics work on advanced 
+- **Adolescence**: independent learning - go to teacher for help 
+- **Independent**: no teacher needed - act as teacher for others 
+
+CCL - student-centered approach 
+
+Class is a positive and fully functioning learning community 
+
+Students pick content learned 
+Teacher is a guide in the process 
+
+---
+
+>**SILENT WAY**
+
+Founder - Caleb Gattegno 
+
+Knowledge cannot be transmitted - awareness of knowledge can be taught 
+
+Teachers let students figure out answers - discover their own 
+
+First language acquisition - learn absorbing language around; learners of additional language can do the same 
+
+Richards, Rodgers: 
+- rods and colo coded pronunciation charts (Fidel charts)
+- physical foci for students 
+- create memorable images 
+
+Use colors to establish sound system - make own rules based on color - help connecting abstract concepts 
+
+Students figure our sound system based on what they piece together from input in class 
+
+People figure out rules of language 
+
+---
+
+>**SUGGESTOPEDIA**
+
+Humanistic method most far from Western mainstream language teaching
+
+Idea of lowering students inhibitions -> important for language learners of all ages 
+
+Humanistics foreign teaching method that uses a combination of techniques - physical relaxation / visualization exercises / affirmations and relaxing music based on strengthening self-esteem 
+
+Teacher - be sure to create environment that is conductive to learning 
+
+*Optimal environment*:
+- room painted with colors - invite / entice learners 
+- paintworks to adorn walls to optimize comfort 
+- music used to relax students 
+
+2 types of music used: 
+- baroc music - passive concert for the presentation of new info 
+- classical music - active concert 
+
+Teachers - leaders make environment positive; use this method as student-centered to accomodate different students 
+
+Teacher influences environment for students 
+
+
+>**TOTAL PHYSICAL RESPONSE (TPR)**
+
+Connect words/action/pictures
+
+**TPR**:
+- gained most exposure and lasted the most 
+- direct evolution of Direct Method - next step to address deficiency 
+
+Not new - introduced by Palmer in Tokyo, called "Teaching through actions" (1925)
+
+James Ahser -> 60s/70s better pioneering; best way to make language stick with person is to make as many connections as possible (*trace theory*)
+
+TPR - avoid using native language 
+
+Students receives much input before starting class 
+
+Simon says - TPR approach 
+
+*Widodo (2005)* Asher TPR has 3 pillars based on principle learning second language is mirror of learning the first:
+1. Before speaking, children listen - blueprint creation 
+2. Children acquire listening comprehension - need to respond physically to spoken language (parental commands)
+3. Once listening comprehension established - speech evolves naturally 
+
+Students do not speak much in early phase of TPR - as it is not required, but it is a great way to teach vocabulary / commands
+
+Critics: 
+- lack of authentic dialogue seen in everyday scenario
+- cannot reach abstract concepts via TPR 
+
+
+---
+
+>**TOTAL PHYSICAL RESPONSE STORYTELLING (TPRS)**
+
+Teaching Proficiency through Storytelling and Reading 
+
+Same premise as TPR - lot of input given before studs required to speak/write
+
+TPR pitfall: people learn action language out of context - real speakers always in context 
+
+Story told throughout class period: 
+- use specific gestures during lesson 
+- sentences of story repeated many times 
+
+first time(s) - teacher and students use gestures together to *represent selected language in story*
+
+Then, teacher stops moving - students use same movements in story connection to target language 
+
+Slightly change story to ensure not simply memorized 
+
+End of class - students recite whole story with gestures 
+
+**TPRS**:
+- students more in context learning 
+- give students more comprehensible input before speak/write
+- grammar on limited scale (not possible in TPR) 
+
+---
+
+>**TAKEAWAYS TPR - TPRS**
+
+- introduce / review vocab / grammar
+- stay away from native language 
+- use only target language
+- real benefit for beginner level 
+- fun and engaging 
+
+TPRS takes TPR to the next level:
+- give context language
+- brief grammar explanation 
+- more comfortable with discussions
+
+
+---
+
+>**HUMANISTIC METHODS APPROACHES**
+
+**CLL - Community Language Learning**: 
+- *Pros*: student-centered, focused on maintaining optimal environment 
+- *Cons*: content student derived so impossible standard curriculum and difficult tracking 
+- *Takeaways*: all curriculum modified to cater studs need / interests; allow students take responsibility for own learning 
+
+**SILENT WAY**:
+- *Pros*: connect sound and colors, build own rules on observation
+- *Cons*: teacher must set up class in specific way, materials must be ready 
+- *Takeaways*: different colors for different language structures 
+
+**SUGGESTOPEDIA**
+- *Pros*: environment tailored to be the best / most comfortable; teacher influences in positive way 
+- *Cons*: many changes needed are not possible in classroom environment
+- *Takeaways*: environment influence overall experience, musci positive tool 
+
+**TPR - Total Physical Response**:
+- *Pros*: learn language by connecting verbal languge to kinesthetic; a lot of input before class provided 
+- *Cons*: studs do not learn outside commands; may make false connections by copying others, no natural context 
+- *Takeaways*: studs low level learn quickly, integrate more senses 
+
+**TPRS - Total Physical Response Storytelling**:
+- *Pros*: in-contect language learning; students can have conversations; grammar can be taught 
+- *Cons*: stories might not be relevant to all; may not grasp all concepts 
+- *Takeaways*: allow teachers to teach grammar and allow for conversations; teach language-specific gestures 
+
+---
+
+>**OTHER IMPORTANT METHODS APPROACHES**
+
+- Content-Based Instruction (CBI)
+- Task-Based Learning (TBL)
+- Cooperative Learning 
+- Jigsaw Method 
+- Project-Based Learning (PBL)
+- Multisensory Approach 
+
+---
+
+>**CONTENT-BASED INSTRUCTION (CBI)**
+
+Method can manifest itself in many ways 
+
+Emphasis learning about something rather than language 
+
+No focus on grammar - focus on content / context or pronunciation
+
+Theme-based approach to teaching - topic / theme chosen 
+
+CBI - more common at higher level 
+
+---
+
+>**TASK-BASED LEARNING (TBL)**
+
+Require teachers think about real-world task - give it to students to complete
+
+Structure:
+- pre-task
+- task preparation
+- post-task 
+
+TBL - open to interpretation and implementation open to possible forms 
+
+Drawback - strong focus on fluency over accuracy
+
+---
+
+>**COOPERATIVE LEARNING**
+
+Learning through cooperation - group work!!!
+
+Some students comfortable/other don't 
+
+Overall better to work in small groups 
+
+Encourage interaction among students 
+
+Students different level work together 
+
+---
+
+>**JIGSAW METHOD**
+
+Students work together in same way of each piece of puzzle 
+
+Each students does one part of activity - pass over to others 
+
+Reduce stress of having to complete tasks in front of entire class 
+
+Allow students to teach each other in comfort zone 
+
+Teacher as monitoring / organizer 
+
+Takes a lot of planning 
+
+---
+
+>**PROJECT-BASED LEARNING (PBL)**
+
+Using projects (involve research)
+
+Student-centered approach that engages students in exploring important questions through investigation / collaborations 
+
+Incorporate students interests 
+
+Students independent from teacher
+
+Great preparation needed from teacher - instructuions on how to proceed 
+
+Students take ownership of project 
+
+---
+
+>**MULTISENSORY APPROACH**
+
+Attempt to engage senses in teaching 
+
+Learn subject using 2-or-more senses
+
+Combination of senses = higher probability appealing different learning preferences 
+
+Combinations: 
+- pictures-words 
+- picturess-sounds
+- tastes-words 
+- ...
+
+Activities:
+- flashcards
+- realia
+- auditory 
+
+Improve student comprehension of language 
+
+Speed up time to learn 
+
+Avoid use of native language 
