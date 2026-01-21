@@ -21,3 +21,5 @@ selected_page = setup_sidebar(
     pages=config['pages'],
     main_page=config['main_page']
 )
+
+# test
