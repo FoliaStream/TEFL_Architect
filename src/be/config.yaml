@@ -12,3 +12,53 @@ pages:
 # MAIN PAGE
 main_page: HOME
 
+# CHAPTERS INFO
+chapter_info_map:
+  chapter1:
+    label: "Chapter 1"
+    title: "Role of the Teacher"
+    index: 1
+  chapter2:
+    label: "Chapter 2"
+    title: "Student-Centered Classroom"
+    index: 2
+  chapter3:
+    label: "Chapter 3"
+    title: "Methods & Approaches"
+    index: 3
+  chapter4:
+    label: "Chapter 4"
+    title: "Lesson Planning"
+    index: 4
+  chapter5:
+    label: "Chapter 5"
+    title: "Course Design"
+    index: 5
+  chapter6:
+    label: "Chapter 6"
+    title: "Lexis"
+    index: 6
+  chapter7:
+    label: "Chapter 7"
+    title: "Grammar"
+    index: 7
+  chapter8:
+    label: "Chapter 8"
+    title: "Listening & Reading"
+    index: 8
+  chapter9:
+    label: "Chapter 9"
+    title: "Speaking & Writing"
+    index: 9
+  chapter10:
+    label: "Chapter 10"
+    title: "Visual Aids & Technology"
+    index: 10
+  chapter11:
+    label: "Chapter 11"
+    title: "Cultural Sensitivity"
+    index: 11
+  extra:
+    label: "Extra"
+    title: "Notes & Extras"
+    index: 12
