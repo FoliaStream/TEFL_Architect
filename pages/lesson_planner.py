@@ -5,6 +5,12 @@ import yaml
 from src.fe.support_functions import setup_sidebar
 from src.fe.styles import HIDE_SIDEBAR_NAV, TEXT_JUSTIFIED
 
+
+################
+# --- SET UP ---
+################
+
+
 # --- PAGE CONFIG --- 
 st.set_page_config(page_title="Theory", layout="wide")
 
@@ -36,3 +42,31 @@ elif selected_page == "Syllabus Planner":
 elif selected_page == "TEFL Theory":
     st.switch_page("pages/tefl_theory.py")
 
+
+# --- DEFAULT SECTIONS ---
+
+
+
+
+
+###########################
+# --- PAGE MAIN CONTENT ---
+###########################
+
+
+# --- BASIC INFO ---
+col1, col2, col3 = st.columns(3)
+with col1: plan_title = st.text_input("Title")
+with col2: plan_teacher = st.text_input("Teacher")
+with col3: plan_date = st.date_input("Date", format="DD/MM/YYYY")
+st.markdown("---")
+
+# --- CLASS INFO FORM ---
+
+with st.form("class_info_form", border=True):
+
+    st.subheader("Class Information")
+    st.multiselect("Add Information", options=[])
+
+
+    st.form_submit_button()

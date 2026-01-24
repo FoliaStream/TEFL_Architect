@@ -5,9 +5,14 @@ import yaml
 from src.fe.support_functions import setup_sidebar, search_text, grid_buttons, summarizer_ai
 from src.fe.styles import HIDE_SIDEBAR_NAV, TEXT_JUSTIFIED, BUTTON_STYLE, GRID_BUTTONS_STYLE
 
-########################
-# --- INITIALIZATION ---
-########################
+
+
+
+
+
+################
+# --- SET UP ---
+################
 
 
 # --- PAGE CONFIG --- 
@@ -23,6 +28,8 @@ st.markdown(GRID_BUTTONS_STYLE, unsafe_allow_html=True)
 # --- CONFIG ---
 with open(f"{os.getcwd()}/src/be/config.yaml", "r") as config_file:
     config = yaml.safe_load(config_file)
+
+
 
 # --- PAGE SPECIFIC FUNCTIONs ---
 
