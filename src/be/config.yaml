@@ -64,52 +64,6 @@ chapter_info_map:
     index: 12
 
 
-# CLASS INFORMATION
-"class_info":
-  - "label": "Number of students"
-    "value": None
-    "id": 0
-  - "label": "Level of students"
-    "value": None
-    "id": 1
-  - "label": "Lesson duration"
-    "value": None
-    "id": 2
-  - "label": "Objectives" 
-    "value": None
-    "id": 3
-  - "label": "Assumptions"
-    "value": None
-    "id": 4
-  - "label": "Anticipated problems"
-    "value": None
-    "id": 5
-  - "label": "Materials"
-    "value": None
-    "id": 6
-
-# LESSON SECTIONS
-"lesson_plan_sections":
-  - "label": "Warm-up"
-    "value": None
-    "id": 0
-  - "label": "Introduction"
-    "value": None
-    "id": 1
-  - "label": "Presentation"
-    "value": None
-    "id": 2
-  - "label": "Practice"
-    "value": None
-    "id": 3
-  - "label": "Production"
-    "value": None
-    "id": 4
-  - "label": "Review"
-    "value": None
-    "id": 5
-    
-
 
     
 
