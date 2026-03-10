@@ -17,7 +17,7 @@ def setup_sidebar(pages,
     with st.sidebar:
         col1, col2, col3 = st.columns([0.2, 0.7, 0.2])
         with col2:
-            st.title("TEFL Architect")
+            st.image(f"{os.getcwd()}/LOGO.png")
         
         # Initialize session state for page if it doesn't exist
         if 'selected_page' not in st.session_state:
