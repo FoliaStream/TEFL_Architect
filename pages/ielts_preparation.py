@@ -36,3 +36,5 @@ elif selected_page == "Syllabus Planner":
 elif selected_page == "TEFL Theory":
     st.switch_page("pages/tefl_theory.py")
 
+# Work in progress
+st.warning("Work in progress...")
