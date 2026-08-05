@@ -1,5 +1,6 @@
 import streamlit as st 
 import pandas as pd
+import base64
 
 import os 
 
@@ -88,3 +89,36 @@ def grid_buttons(num_columns, button_labels, button_info):
 # AI SUMMARY
 def summarizer_ai():
     return pipeline("summarization", model="t5-small", device=-1)
+
+# DISPLAY PDF
+def display_pdf(pdf_path, height=700):
+    """
+    Display a PDF file in a scrollable iframe.
+    """
+    try:
+        with open(pdf_path, "rb") as f:
+            base64_pdf = base64.b64encode(f.read()).decode('utf-8')
+        
+        # Create an iframe with the PDF embedded
+        pdf_display = f'''
+        <iframe
+            src="data:application/pdf;base64,{base64_pdf}"
+            width="100%"
+            height="{height}px"
+            type="application/pdf"
+            style="border: 1px solid #ddd; border-radius: 5px;"
+        ></iframe>
+        '''
+        st.markdown(pdf_display, unsafe_allow_html=True)
+        
+        # Add download button
+        st.download_button(
+            label="📥 Download PDF",
+            data=open(pdf_path, "rb").read(),
+            file_name=os.path.basename(pdf_path),
+            mime="application/pdf"
+        )
+        
+    except FileNotFoundError:
+        st.error(f"PDF file not found: {pdf_path}")
+        st.info("Please ensure the PDF files are in the correct directory.")

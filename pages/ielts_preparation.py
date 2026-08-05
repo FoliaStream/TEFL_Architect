@@ -2,7 +2,7 @@ import streamlit as st
 import os 
 import yaml 
 
-from src.fe.support_functions import setup_sidebar
+from src.fe.support_functions import setup_sidebar, display_pdf
 from src.fe.styles import HIDE_SIDEBAR_NAV, TEXT_JUSTIFIED
 
 # --- PAGE CONFIG --- 
@@ -37,4 +37,16 @@ elif selected_page == "TEFL Theory":
     st.switch_page("pages/tefl_theory.py")
 
 # Work in progress
-st.warning("Work in progress...")
+tab1, tab2 = st.tabs(["IELTS Speaking", "IELTS Writing"])
+
+with tab1:
+    st.markdown("### SPEAKING")
+    st.markdown("Scroll through the presentation below:")
+    # Adjust the path to where your PDF is stored
+    display_pdf(f"{os.getcwd()}/db/ielts/IELTSspeaking.pdf")
+    
+with tab2:
+    st.markdown("### WRITING")
+    st.markdown("Scroll through the presentation below:")
+    # Adjust the path to where your PDF is stored
+    display_pdf(f"{os.getcwd()}/db/ielts/IELTSwriting.pdf")
