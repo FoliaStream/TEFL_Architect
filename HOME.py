@@ -79,7 +79,7 @@ with col1:
     st.subheader("CONTACT")
 with col2:
     st.markdown("**Mail**")
-    st.markdown("📩 foliastream@gmail.com")
+    st.markdown("📩 foliastream+teflarchitect@gmail.com")
 with col3:
     st.markdown("**Link**")
     st.caption("🌐 https://teflarchitect.streamlit.app")
