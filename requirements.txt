@@ -5,3 +5,4 @@ pandas>=2.0.0
 transformers>=4.30.0
 torch>=2.0.0
 streamlit-option-menu>=0.3.6
+torchvision>=0.15.0
