@@ -2,7 +2,7 @@ import streamlit as st
 import os 
 import yaml 
 
-from src.fe.support_functions import setup_sidebar, display_pdf
+from src.fe.support_functions import setup_sidebar, grid_buttons, natural_sort
 from src.fe.styles import HIDE_SIDEBAR_NAV, TEXT_JUSTIFIED
 
 # --- PAGE CONFIG --- 
@@ -36,17 +36,134 @@ elif selected_page == "Syllabus Planner":
 elif selected_page == "TEFL Theory":
     st.switch_page("pages/tefl_theory.py")
 
-# Work in progress
-tab1, tab2 = st.tabs(["IELTS Speaking", "IELTS Writing"])
 
-with tab1:
-    st.markdown("### SPEAKING")
-    st.markdown("Scroll through the presentation below:")
-    # Adjust the path to where your PDF is stored
-    display_pdf(f"{os.getcwd()}/db/ielts/IELTSspeaking.pdf")
+
+# --- SESSION STATE VARIABLES INIT ---
+if 'selected_topic' not in st.session_state:
+    st.session_state.selected_topic = None
+if 'topic_info' not in st.session_state:
+    st.session_state.topic_info = None
+
+
+# --- CONFIG IMPORT VARIABLES ---
+sorted_speaking = sorted(config['ielts_map']['speaking'].items(), key=lambda x: x[1]['index'])
+speaking_tips = [key for key, _ in sorted_speaking]
+speaking_labels = [info['label'] for _, info in sorted_speaking]
+speaking_titles = [info['title'] for _, info in sorted_speaking]
+speaking_indexes = [info['index'] for _, info in sorted_speaking]
+speaking_label_to_folder = dict(zip(speaking_labels, speaking_tips))
+
+
+sorted_writing = sorted(config['ielts_map']['writing'].items(), key=lambda x: x[1]['index'])
+writing_tips = [key for key, _ in sorted_writing]
+writing_labels = [info['label'] for _, info in sorted_writing]
+writing_titles = [info['title'] for _, info in sorted_writing]
+writing_indexes = [info['index'] for _, info in sorted_writing]
+writing_label_to_folder = dict(zip(writing_labels, writing_tips))
+
+
+
+###########################
+# --- PAGE MAIN CONTENT ---
+###########################
+
+# Work in progress
+ielts_tabs = ["Reading", "Listening", "Speaking", "Writing", "Mock Exams"]
+tab1, tab2, tab3, tab4, tab5 = st.tabs([label.center(23, "\u2001") for label in ielts_tabs])
+
+with tab3: 
+    ### SPEAKING ###
+    st.subheader("Select a topic")
+    clicked_button = grid_buttons(num_columns=4, button_labels=speaking_labels, button_info=speaking_titles)
+
+    # Set chapter and slide
+    if clicked_button:
+        st.session_state.selected_topic = clicked_button['label']
+        st.session_state.topic_info = clicked_button['info']
+        st.rerun()
+
+    st.divider()
+
+    # Clear Selection
+    if st.session_state.selected_topic:
+        if st.button("Clear Selection", key="clear_btn_speaking"):
+            st.session_state.selected_topic = None
+            st.session_state.topic_info = None
+            st.rerun()
     
-with tab2:
-    st.markdown("### WRITING")
-    st.markdown("Scroll through the presentation below:")
-    # Adjust the path to where your PDF is stored
-    display_pdf(f"{os.getcwd()}/db/ielts/IELTSwriting.pdf")
+    active_topic = st.session_state.selected_topic
+    active_topic_info = st.session_state.topic_info
+
+    # Display 
+
+    if active_topic:
+        st.markdown(f"<h1 style='text-align: center;'>{active_topic}</h1>", unsafe_allow_html=True)
+        if active_topic_info:
+            st.markdown(f"<h2 style='text-align: center;'>{active_topic_info}</h2>", unsafe_allow_html=True)
+
+        # Get the folder name from the mapping
+        speaking_folder = speaking_label_to_folder.get(active_topic)
+
+        # Get slides
+        speaking_path = f"{os.getcwd()}/db/ielts/speaking/{speaking_folder}/"
+        
+        # Plot
+        if os.path.exists(speaking_path):
+            slides = natural_sort([f for f in os.listdir(speaking_path) if f.endswith('.jpg')])
+            for slide in slides:
+                st.image(str(speaking_path+slide), use_container_width=True)
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# with tab1:
+#     st.markdown("### SPEAKING")
+#     st.markdown("Scroll through the presentation below:")
+#     image_paths = [f"{os.getcwd()}/db/ielts/speaking/speaking1.jpg",
+#                    f"{os.getcwd()}/db/ielts/speaking/speaking2.jpg",
+#                    f"{os.getcwd()}/db/ielts/speaking/speaking3.jpg",
+#                    f"{os.getcwd()}/db/ielts/speaking/speaking4.jpg",
+#                    f"{os.getcwd()}/db/ielts/speaking/speaking5.jpg",
+#                    f"{os.getcwd()}/db/ielts/speaking/speaking6.jpg",
+#                    f"{os.getcwd()}/db/ielts/speaking/speaking7.jpg",
+#                    f"{os.getcwd()}/db/ielts/speaking/speaking8.jpg",
+#                    f"{os.getcwd()}/db/ielts/speaking/speaking9.jpg",
+#                    f"{os.getcwd()}/db/ielts/speaking/speaking10.jpg",
+#                    f"{os.getcwd()}/db/ielts/speaking/speaking11.jpg"]
+
+#     with st.container():
+#         # Display images vertically
+#         for img_path in image_paths:
+#             st.image(img_path, use_container_width=True)
+#             st.write("") 

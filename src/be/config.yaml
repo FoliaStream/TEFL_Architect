@@ -64,6 +64,51 @@ chapter_info_map:
     index: 12
 
 
-
+ielts_map:
+  reading:
+  listening:
+  speaking: 
+    strategy1:
+      label: "Speaking Part 1"
+      title: "Three Steps Response"
+      index: 1
+    strategy2:
+      label: "Speaking Part 2"
+      title: "The Long Run Preparation"
+      index: 2
+    strategy3:
+      label: "Brainstorm PPF"
+      title: "PPF - Present Past Future"
+      index: 3
+    strategy4:
+      label: "Brainstorm 5s"
+      title: "Five Senses"
+      index: 4
+    topic1:
+      label: "Practice Topic 1"
+      title: "Nature & Environment"
+      index: 5
+    topic2:
+      label: "Practice Topic 2"
+      title: "Technology"
+      index: 6
+    topic3:
+      label: "Practice Topic 3"
+      title: "Friendship & Relationships"
+      index: 7
+  writing:
+    strategy1:
+      label: "Part 1"
+      title: "Part 1 - Strategy"
+      index: 9
+    strategy2:
+      label: "Part 2"
+      title: "Part 2 - Strategy"
+      index: 10
+    topic1:
+      label: "Practice Topic 1"
+      title: ""
+      index: 11
+  mock:
     
 
