@@ -68,10 +68,10 @@ writing_label_to_folder = dict(zip(writing_labels, writing_tips))
 ###########################
 
 # Work in progress
-ielts_tabs = ["Reading", "Listening", "Speaking", "Writing", "Mock Exams"]
+ielts_tabs = ["Speaking", "Reading", "Listening", "Writing", "Mock Exams"]
 tab1, tab2, tab3, tab4, tab5 = st.tabs([label.center(23, "\u2001") for label in ielts_tabs])
 
-with tab3: 
+with tab1: 
     ### SPEAKING ###
     st.subheader("Select a topic")
     clicked_button = grid_buttons(num_columns=4, button_labels=speaking_labels, button_info=speaking_titles)
@@ -112,58 +112,3 @@ with tab3:
             slides = natural_sort([f for f in os.listdir(speaking_path) if f.endswith('.jpg')])
             for slide in slides:
                 st.image(str(speaking_path+slide), use_container_width=True)
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# with tab1:
-#     st.markdown("### SPEAKING")
-#     st.markdown("Scroll through the presentation below:")
-#     image_paths = [f"{os.getcwd()}/db/ielts/speaking/speaking1.jpg",
-#                    f"{os.getcwd()}/db/ielts/speaking/speaking2.jpg",
-#                    f"{os.getcwd()}/db/ielts/speaking/speaking3.jpg",
-#                    f"{os.getcwd()}/db/ielts/speaking/speaking4.jpg",
-#                    f"{os.getcwd()}/db/ielts/speaking/speaking5.jpg",
-#                    f"{os.getcwd()}/db/ielts/speaking/speaking6.jpg",
-#                    f"{os.getcwd()}/db/ielts/speaking/speaking7.jpg",
-#                    f"{os.getcwd()}/db/ielts/speaking/speaking8.jpg",
-#                    f"{os.getcwd()}/db/ielts/speaking/speaking9.jpg",
-#                    f"{os.getcwd()}/db/ielts/speaking/speaking10.jpg",
-#                    f"{os.getcwd()}/db/ielts/speaking/speaking11.jpg"]
-
-#     with st.container():
-#         # Display images vertically
-#         for img_path in image_paths:
-#             st.image(img_path, use_container_width=True)
-#             st.write("") 
