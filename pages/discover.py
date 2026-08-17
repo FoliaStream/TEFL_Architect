@@ -5,6 +5,7 @@ import os
 import yaml 
 import re 
 import time
+import shutil
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -12,6 +13,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException, StaleElementReferenceException
+from selenium.webdriver.chrome.service import Service
 
 from src.fe.support_functions import setup_sidebar
 from src.fe.styles import HIDE_SIDEBAR_NAV, TEXT_JUSTIFIED
@@ -72,6 +74,8 @@ class GoogleMapsScraper:
         options.add_argument("--headless=new")
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--disable-gpu")
+        options.add_argument("--single-process")   # helps in constrained containers
         options.add_argument("--window-size=1920,1080")
         options.add_argument("--lang=en-US")
         options.add_experimental_option("prefs", {"intl.accept_languages": "en-US,en"})
@@ -83,7 +87,18 @@ class GoogleMapsScraper:
             "(KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
         )
 
-        self.driver = webdriver.Chrome(options=options)
+        chromium_path = shutil.which("chromium") or shutil.which("chromium-browser")
+        chromedriver_path = shutil.which("chromedriver")
+
+        if chromium_path:
+            options.binary_location = chromium_path
+
+        if chromedriver_path:
+            service = Service(executable_path=chromedriver_path)
+            self.driver = webdriver.Chrome(service=service, options=options)
+        else:
+            # local fallback (e.g. Selenium Manager auto-resolves it)
+            self.driver = webdriver.Chrome(options=options)
         try:
             self.driver.execute_cdp_cmd(
                 "Page.addScriptToEvaluateOnNewDocument",
