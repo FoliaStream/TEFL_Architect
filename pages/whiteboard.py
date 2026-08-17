@@ -36,7 +36,8 @@ elif selected_page == "Syllabus Planner":
     st.switch_page("pages/syllabus_planner.py")
 elif selected_page == "TEFL Theory":
     st.switch_page("pages/tefl_theory.py")
-
+elif selected_page == "Discover":
+    st.switch_page("pages/discover.py")
 
 
 # Custom CSS for better styling
