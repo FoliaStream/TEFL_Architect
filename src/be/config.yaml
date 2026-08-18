@@ -97,19 +97,39 @@ ielts_map:
       label: "Practice Topic 3"
       title: "Friendship & Relationships"
       index: 7
+    topic4:
+      label: "Practice Topic 4"
+      title: "Travel & Holiday"
+      index: 8
+    topic5:
+      label: "Practice Topic 5"
+      title: "Food & Cooking"
+      index: 9
+    topic6:
+      label: "Practice Topic 6"
+      title: "Work & Study"
+      index: 10
+    topic7:
+      label: "Practice Topic 7"
+      title: "Health & Fitness"
+      index: 11
+    topic8:
+      label: "Practice Topic 8"
+      title: "Shopping & Money"
+      index: 12
   writing:
     strategy1:
       label: "Part 1"
       title: "Part 1 - Strategy"
-      index: 9
+      index: 1
     strategy2:
       label: "Part 2"
       title: "Part 2 - Strategy"
-      index: 10
+      index: 2
     topic1:
       label: "Practice Topic 1"
       title: ""
-      index: 11
+      index: 3
   mock:
     
 

@@ -107,7 +107,7 @@ with tab1:
 
         # Get slides
         speaking_path = f"{os.getcwd()}/db/ielts/speaking/{speaking_folder}/"
-        
+
         # Plot
         if os.path.exists(speaking_path):
             slides = natural_sort([f for f in os.listdir(speaking_path) if f.endswith('.jpg')])
