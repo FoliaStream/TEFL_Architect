@@ -73,17 +73,44 @@ def search_text(keystring, db_dir):
 
 
 # GRID BUTTONS
-def grid_buttons(num_columns, button_labels, button_info):
 
+# def grid_buttons(num_columns, button_labels, button_info):
+
+#     button_data = [{"label":label, "info":info} for label, info in zip(button_labels, button_info)]
+#     cols = st.columns(num_columns)
+#     clicked = None
+
+#     for i, btn in enumerate(button_data):
+#         with cols[i % num_columns]:
+#             if st.button(btn['label'], key=f"btn_{i}", use_container_width=True):
+#                 clicked = btn
+            
+#     return clicked
+
+def grid_buttons(num_columns, button_labels, button_info, button_index=None, display_index=None):
+    
     button_data = [{"label":label, "info":info} for label, info in zip(button_labels, button_info)]
     cols = st.columns(num_columns)
     clicked = None
-
+    
+    # If display_index is not provided, use button_index or enumerate
+    if display_index is None:
+        if button_index is None:
+            display_indices = list(range(len(button_data)))
+        else:
+            display_indices = button_index
+    else:
+        display_indices = display_index
+    
+    # Use button_index for keys, display_indices for column placement
     for i, btn in enumerate(button_data):
-        with cols[i % num_columns]:
-            if st.button(btn['label'], key=f"btn_{i}", use_container_width=True):
+        key_idx = button_index[i] if button_index and i < len(button_index) else i
+        col_idx = display_indices[i] if i < len(display_indices) else i
+        
+        with cols[col_idx % num_columns]:
+            if st.button(btn['label'], key=f"btn_{key_idx}", use_container_width=True):
                 clicked = btn
-            
+    
     return clicked
     
 # AI SUMMARY

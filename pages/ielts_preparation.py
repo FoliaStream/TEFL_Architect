@@ -69,13 +69,19 @@ writing_label_to_folder = dict(zip(writing_labels, writing_tips))
 ###########################
 
 # Work in progress
-ielts_tabs = ["Speaking", "Reading", "Listening", "Writing", "Mock Exams"]
+ielts_tabs = ["Speaking", "Writing", "Listening", "Reading", "Mock Exams"]
 tab1, tab2, tab3, tab4, tab5 = st.tabs([label.center(23, "\u2001") for label in ielts_tabs])
 
 with tab1: 
     ### SPEAKING ###
     st.subheader("Select a topic")
-    clicked_button = grid_buttons(num_columns=4, button_labels=speaking_labels, button_info=speaking_titles)
+    # Create sequential display indexes for writing buttons
+    display_speaking_indexes = list(range(len(speaking_labels)))
+    clicked_button = grid_buttons(num_columns=4, 
+                                  button_labels=speaking_labels, 
+                                  button_info=speaking_titles, 
+                                  button_index=speaking_indexes, 
+                                  display_index=display_speaking_indexes)
 
     # Set chapter and slide
     if clicked_button:
@@ -113,3 +119,48 @@ with tab1:
             slides = natural_sort([f for f in os.listdir(speaking_path) if f.endswith('.jpg')])
             for slide in slides:
                 st.image(str(speaking_path+slide), use_container_width=True)
+
+with tab2:
+    ### SPEAKING ###
+    st.subheader("Select a topic")
+
+    # Create sequential display indexes for writing buttons
+    display_writing_indexes = list(range(len(writing_labels)))
+    clicked_button = grid_buttons(num_columns=5, button_labels=writing_labels, button_info=writing_titles, button_index=writing_indexes, display_index=display_writing_indexes)
+
+    # Set chapter and slide
+    if clicked_button:
+        st.session_state.selected_topic = clicked_button['label']
+        st.session_state.topic_info = clicked_button['info']
+        st.rerun()
+
+    st.divider()
+
+    # Clear Selection
+    if st.session_state.selected_topic:
+        if st.button("Clear Selection", key="clear_btn_writing"):
+            st.session_state.selected_topic = None
+            st.session_state.topic_info = None
+            st.rerun()
+    
+    active_topic = st.session_state.selected_topic
+    active_topic_info = st.session_state.topic_info
+
+    # Display 
+
+    if active_topic:
+        st.markdown(f"<h1 style='text-align: center;'>{active_topic}</h1>", unsafe_allow_html=True)
+        if active_topic_info:
+            st.markdown(f"<h2 style='text-align: center;'>{active_topic_info}</h2>", unsafe_allow_html=True)
+
+        # Get the folder name from the mapping
+        writing_folder = writing_label_to_folder.get(active_topic)
+
+        # Get slides
+        writing_path = f"{os.getcwd()}/db/ielts/writing/{writing_folder}/"
+
+        # Plot
+        if os.path.exists(writing_path):
+            slides = natural_sort([f for f in os.listdir(writing_path) if f.endswith('.jpg')])
+            for slide in slides:
+                st.image(str(writing_path+slide), use_container_width=True)

@@ -118,18 +118,50 @@ ielts_map:
       title: "Shopping & Money"
       index: 12
   writing:
-    strategy1:
-      label: "Part 1"
-      title: "Part 1 - Strategy"
-      index: 1
-    strategy2:
-      label: "Part 2"
-      title: "Part 2 - Strategy"
-      index: 2
-    topic1:
-      label: "Practice Topic 1"
-      title: ""
-      index: 3
+    part1:
+      label: "Part 1 - Overview"
+      title: "5 Steps"
+      index: 13
+    part1_1:
+      label: "Part 1 Type 1"
+      title: "Charts"
+      index: 14
+    part1_2:
+      label: "Part 1 Type 2"
+      title: "Maps"
+      index: 15
+    part1_3:
+      label: "Part 1 Type 3"
+      title: "Multiple Charts/Graphs"
+      index: 16
+    part1_4:
+      label: "Part 1 Type 4"
+      title: "Process"
+      index: 17
+    part2:
+      label: "Part 2 - Overview"
+      title: "Coming soon..."
+      index: 18
+    part2_1:
+      label: "Part 2 Type 1"
+      title: "Advantages & Disadvantages Essay"
+      index: 19
+    part2_2:
+      label: "Part 2 Type 2"
+      title: "Discuss Views Essay"
+      index: 20
+    part2_3:
+      label: "Part 2 Type 3"
+      title: "Two-Part/Double Question Essay"
+      index: 21
+    part2_4:
+      label: "Part 2 Type 4"
+      title: "Opinion Essay"
+      index: 22
+    part2_5:
+      label: "Part 2 Type 5"
+      title: "Problem & Solution Essay"
+      index: 23
   mock:
     
 
