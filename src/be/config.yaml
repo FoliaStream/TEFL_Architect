@@ -8,7 +8,7 @@ pages:
   - Lesson Planner
   - Syllabus Planner
   - TEFL Theory
-  - Discover
+  # - Discover
 
 # MAIN PAGE
 main_page: HOME
